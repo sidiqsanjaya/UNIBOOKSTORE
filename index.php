@@ -1,4 +1,5 @@
 <?php
+//program ini dibuat oleh siddiq sanjaya bakti (INAdik)
 date_default_timezone_set('Asia/Jakarta'); //waktu
 header("Cache-Control: no-cache, must-revalidate"); //no cache
 header("Expires: Mon, 26 Jul 1997 05:00:00 GMT"); //no cache
